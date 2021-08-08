@@ -1,0 +1,6 @@
+~/Downloads/mykey.pem
+ubuntu@52.14.149.11
+~/Downloads/Jupiter.war
+
+scp -i ~/Downloads/mykey.pem ~/Downloads/jupiter.war ubuntu@52.14.149.11:~/
+
